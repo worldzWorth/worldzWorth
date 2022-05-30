@@ -1,6 +1,6 @@
 ### Hello World, I'm Kelly 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" width="500" height="320" />
+<img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>" width="500" height="320" />
 
 
 ## I'm an Amazing Uncle of 7,  Developer, Content Creator, and Mentor!!
