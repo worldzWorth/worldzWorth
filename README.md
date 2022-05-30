@@ -1,5 +1,6 @@
 ### Hello World, I'm Kelly 👋
 
+ <img align="right" alt="GIF" src="https://media1.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif?cid=ecf05e47c7far01cxlddp29r7fjd4iql2a6xd2c7ji7vmwl7&rid=giphy.gif&ct=g" width="500" height="320" />
 
 ## I'm an Amazing Uncle of 7,  Developer, Content Creator, and Mentor!!
 
