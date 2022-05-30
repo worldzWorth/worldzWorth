@@ -1,6 +1,10 @@
+### Hello World, I'm Kelly 
+
+<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 
-- 👋 Hi, I’m @worldzWorth
+
 - 👀 I’m interested in changing the world with code.
 - 🌱 I’m currently learning how to express myself with fewer but mor eimpactful words.
 - 💞️ I’m looking to bridge the gap between police and the coomunites they serve. 
