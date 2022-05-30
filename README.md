@@ -1,6 +1,6 @@
 ### Hello World, I'm Kelly 
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" width="500" height="320" />
 
 
 ## I'm an Amazing Uncle of 7,  Developer, Content Creator, and Mentor!!
